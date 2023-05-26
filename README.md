@@ -57,5 +57,3 @@ Once the issue has been successfully resolved, the ticket can be closed, causing
 </p> 
 
 <br>
-
-And that's it, Thank you so much for reading!
