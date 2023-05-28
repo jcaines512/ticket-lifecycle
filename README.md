@@ -7,6 +7,9 @@ This tutorial guides you through the entire process of handling support inquirie
 
 In this tutorial, we will explore the process of working in osTicket as a professional helpdesk technician, efficiently responding to tickets and resolving issues.<br />
 
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://youtu.be/EbKoezFBs2g)
 
 <h2>Environments and Technologies Used</h2>
 
